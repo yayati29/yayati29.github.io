@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yayati.github.io/sitemap.xml
+Sitemap: https://yayati29.github.io/sitemap.xml
