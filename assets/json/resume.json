@@ -8,16 +8,16 @@
     "url": "https://yayati29.github.io/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      // "address": "2712 Broadway St",
+      "postalCode": "15213",
+      "city": "Pittsburgh",
       "countryCode": "US",
-      "region": "California"
+      "region": "PA"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
+        "username": "yayati_ml",
         "url": "https://twitter.com/AlbertEinstein"
       }
     ]
